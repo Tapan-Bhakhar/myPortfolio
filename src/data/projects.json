@@ -1,0 +1,26 @@
+[
+  {
+    "title": "News App",
+    "imageSrc": "projects/project.png",
+    "description": "Built a responsive news app using React.js, fetching data from a third-party API to display real-time updates on sports, entertainment, and health. Implemented state management using React hooks",
+    "skills": ["React", "Express"],
+    "demo": "",
+    "source": "https://github.com/Tapan-Bhakhar/newsApp"
+  },
+  {
+    "title": "Inotebook",
+    "imageSrc": "projects/project.png",
+    "description": "Created a responsive note-taking app using the MERN stack. Implemented secure login with JWT and added features for creating, editing, and deleting notes. Used React Context API for state management.",
+    "skills": ["React", "Express", "Node", "MongoDb"],
+    "demo": "",
+    "source": "https://github.com/Tapan-Bhakhar/iNotebook"
+  },
+  {
+    "title": "TicTacToe Game",
+    "imageSrc": "projects/project.png",
+    "description": "Tic-Tac-Toe a classic paper-pencil game played between two players, typically using 3x3 grid, using HTML, CSS, Javascript.",
+    "skills": ["Javasccript", "React"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Tapan-Bhakhar/Tic-Tac-Toe"
+  }
+]
